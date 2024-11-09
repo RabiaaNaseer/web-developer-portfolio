@@ -2,7 +2,7 @@
 Web Developer Portfolio
 
 This is my personal web developer portfolio built using HTML, CSS, and JavaScript. It showcases my skills, projects, and the services I offer as a web developer. The portfolio is fully responsive, optimized for various devices, and includes a clean, modern design. It demonstrates my expertise in web development technologies and serves as a platform to highlight my experience and achievements in creating user-friendly, visually appealing websites.
-
+![Screenshot (320)](https://github.com/user-attachments/assets/77123d68-14f1-455b-bb28-10e816fc98cd)
 Features:
 Responsive Design: Optimized for all devices (mobile, tablet, and desktop).
 Project Showcase: Displays web development projects, with links to live demos or repositories.
